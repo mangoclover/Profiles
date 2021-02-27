@@ -543,6 +543,8 @@ URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 # > Apple
 DOMAIN,appleid.apple.com
 DOMAIN,developer.apple.com
+DOMAIN,www.icloud.com
+DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
 # > DigiCert
 DOMAIN,cacerts.digicert.com
@@ -556,5 +558,4 @@ DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,international-gfe.download.nvidia.com
-DOMAIN,ocsp.apple.com
 DOMAIN,store-images.s-microsoft.com
